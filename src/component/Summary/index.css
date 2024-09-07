@@ -1,0 +1,34 @@
+.summary-main-container {
+    width: 100%;
+    background-color: #021d2b;
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 20px;
+    /* margin: 10px; */
+}
+.ant-collapse-header {
+    background: #5cd0e3ed;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 6px !important;
+}
+.summary-main-container .total-fuel-calculations-container {
+    color: #fff;
+    font-size: 16px;
+}
+
+.panel-header-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+}
+
+.total-fuel-calculations-container-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+}

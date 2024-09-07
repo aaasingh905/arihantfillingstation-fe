@@ -1,0 +1,47 @@
+.list-container-user-list {
+    list-style: none;
+    padding: 0px;
+    width: 100%;
+    box-sizing: border-box;
+    background: #021d2b;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-content: center;
+    border-radius: 20px;
+}
+.list-headers-user-list {
+    width: 100%;
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #5cd0e3ed;
+    padding: 10px;
+    box-sizing: border-box;
+    box-sizing: border-box;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.list-item-users {
+    width: 100%;
+    color: #fff;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-weight: 500;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.list-item-users span, a {
+    flex: 1;
+    align-self: center;
+}
+.list-headers span {
+    flex: 1;
+    align-self: center;
+}
